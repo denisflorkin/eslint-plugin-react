@@ -73,8 +73,8 @@ Finally, enable all of the rules that you would like to use.  Use [our preset](#
 
 ```json
   "rules": {
-    "react/jsx-uses-react": "error", // add this rule for jsx reference to be picked up
-    "react/jsx-uses-vars": "error", // add this rule for jsx reference to be picked up
+    "react/jsx-uses-react": "error",
+    "react/jsx-uses-vars": "error",
   }
 ```
 
